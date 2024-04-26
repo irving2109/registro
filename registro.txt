@@ -1,0 +1,5 @@
+Contraseña: tghnsfn - Es válida: false
+Contraseña: gdfnbdf - Es válida: false
+Contraseña: IRving23#$ - Estado: VÁLIDA
+Contraseña: SANCHEz4578#! - Estado: INVÁLIDA
+Contraseña: garCIa34# - Estado: VÁLIDA
